@@ -1,0 +1,23 @@
+.buttoncolor {
+    background-color: green;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+
+}
+
+.inputbox {
+    width: 200px;
+}
+
+.border-secondary {
+    border: solid black;
+}
+
+div {
+    padding: 5px;
+    border-block-end-color: black;
+} 
+col-5 {
+    border-right-color: black;
+} */
